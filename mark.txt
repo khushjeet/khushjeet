@@ -1,0 +1,4 @@
+RollNo	Name	Mark1\Mark2\Mark3	Mark4	Mark5	Total	Average	Remark
+2	kh	44.0	8.0	98.0	90.0	77.0	317.0	63.4	Average
+d
+2	jk	88.0	99.0	77.0	99.0	98.0	461.0	92.2	Very Good
